@@ -22,8 +22,8 @@
   
   .like-button,
   .dislike-button {
-    padding: 10px 20px;
-    margin: 0 10px;
+    padding: 20px 100px;
+    margin: 0 100px;
     font-size: 16px;
     cursor: pointer;
     border: none;
